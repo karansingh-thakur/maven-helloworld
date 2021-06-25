@@ -1,5 +1,4 @@
-<h1> Hello, This is a test deployement using cicd pipeline and hosted on apache tomcat!!! </h1>
-<h2>This is an updated deployment</h2>
+<h5> Hello, This is a test deployement using cicd pipeline and hosted on apache tomcat!!! </h5>
 <!DOCTYPE html>
 <html lang="en">
 
