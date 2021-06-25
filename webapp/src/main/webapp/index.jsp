@@ -6,10 +6,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./calculator.css">
+    <link rel="stylesheet" href="https://github.com/karansingh-thakur/calculator/blob/main/calculator/calculator.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <title>Calculator</title>
-    <Script src="./calculator.js"></Script>
+    <Script src="https://github.com/karansingh-thakur/calculator/blob/main/calculator/calculator.js"></Script>
 </head>
 <body>
     <div class = "calc-container">
