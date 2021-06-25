@@ -1,15 +1,6 @@
 <h1> Hello, This is a test deployement !!! </h1>
 <h2>This is an updated deployment</h2>
 
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sai baba</title>
-</head>
-
 <body>
     <h2>Sai Baba of Shirdi</h2>
     <hr>
